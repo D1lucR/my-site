@@ -1,0 +1,19 @@
+big{
+    margin:3%;
+}
+body{
+    background-color: rgb(216, 216, 216);
+}
+.picc{
+    border-radius: 20px;
+}
+.cir{
+    border-radius: 30px;
+    background: rgb(171, 171, 171);
+    padding: 10px;
+}
+.menu{
+    background-color: rgb(198, 198, 198);
+    border-radius: 30px;
+    padding: 10px;
+}
